@@ -1,0 +1,8 @@
+{
+    "name": "mkasson/DocsmitMailAPI",
+    "autoload": {
+        "psr-0" : {
+            "mkasson\\DocsmitMailAPI" : "src"
+        }
+    }
+}
