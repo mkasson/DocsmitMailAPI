@@ -1,8 +1,9 @@
 {
-    "name": "mkasson/DocsmitMailAPI",
+    "name": "docsmit/mailapi",
+    "description": "API for sending USPS mail with Docsmit",
     "autoload": {
         "psr-0" : {
-            "mkasson\\DocsmitMailAPI" : "src"
+            "docsmit\\mailapi" : "src"
         }
     }
 }
