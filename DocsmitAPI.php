@@ -3,7 +3,7 @@
 /**
  * @license Docsmit API PHP SDK
  * (c) 2014-2015 Docsmit.com, Inc. http://www.docsmit.com
- * License: MIT
+ * License: GNU GPL 3
  */
 
 class DocsmitAPI {
