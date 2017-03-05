@@ -1,6 +1,6 @@
 {
     "name": "docsmit/mailapi",
-    "type": "library"
+    "type": "library",
     "description": "API for sending USPS mail with Docsmit",
     "keywords": ["http", "rest", "web service", "USPS", "docsmit", "mail"],
     "minimum-stability": "stable",
@@ -9,7 +9,7 @@
     {
       "name": "Mark Kasson",
       "email": "mark.kasson@docsmit.com"
-    }
+    },
     "autoload": {
         "psr-4" : {
             "docsmit\\mailapi" : "src\"
