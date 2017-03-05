@@ -9,7 +9,7 @@
     {
       "name": "Mark Kasson",
       "email": "mark.kasson@docsmit.com"
-    },
+    }],
     "autoload": {
         "psr-4" : {
             "docsmit\\mailapi" : "src\"
